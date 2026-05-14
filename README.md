@@ -2,10 +2,11 @@
 
 ## Overview
 
-This project is a judicial analytics research study conducted on the **DAKSH High Court Bail Dataset**, focusing on bail adjudication patterns, judicial efficiency, backlog dynamics, and institutional variation across Indian High Courts.
+## Overview
 
+This project is a judicial analytics and legal data science study focused on understanding institutional and procedural patterns in Indian High Court bail cases through large-scale empirical analysis. The objective was to examine how factors such as court identity, hearing burden, legislation type, and procedural timelines influence bail outcomes, judicial delay, and backlog dynamics across jurisdictions.
 
-The objective is to identify measurable structural patterns in Indian High Court bail proceedings using large-scale administrative judicial data.
+The project combines exploratory data analysis, statistical inference, survival analysis, interrupted time series modelling, machine learning, and policy simulation to build interpretable and methodologically rigorous analyses of judicial processes. The workflow emphasizes institutional heterogeneity, temporal dynamics, and explainable modelling to identify measurable structural patterns in bail adjudication and judicial efficiency.
 
 ---
 
