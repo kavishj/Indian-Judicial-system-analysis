@@ -172,8 +172,7 @@ Across all analyses, several consistent patterns emerged:
 ---
 
 # Author
-Kavish Jain
 
 **Kavish Jain**
 
-Judicial Analytics Research Project
+
